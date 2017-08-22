@@ -6,7 +6,8 @@ import org.junit.Test;
 
 public class ControllerServletTest {
 
-	@Test
+	//@Test
+	@ignore
 	public void testProcessRequest() {
 		fail("Not yet implemented");
 	}

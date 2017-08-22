@@ -8,7 +8,7 @@ import org.junit.Ignore;
 public class ControllerServletTest {
 
 	//@Test
-	@ignore
+	@Ignore
 	public void testProcessRequest() {
 		fail("Not yet implemented");
 	}

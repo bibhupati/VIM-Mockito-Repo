@@ -46,8 +46,8 @@ public class TestControllerServlet {
 	 * 
 	 */
 
-	@Test
-//	@Ignore
+	//@Test
+	@Ignore
 	public void testProcessRequest() throws ServletException, IOException {
 //		fail("Not yet implemented");
 		
